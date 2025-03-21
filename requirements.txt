@@ -37,3 +37,4 @@ openpyxl
 reportlab
 python-docx
 ta
+volcengine-python-sdk[ark]
